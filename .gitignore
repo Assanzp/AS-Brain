@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Docker
+postgres/data/
+n8n/.n8n/
+caddy/data/
+caddy/config/
+
+# Backups
+backups/*.zip
+backups/*.tar.gz
+
+# Temporary files
+tmp/
+temp/
+
+# OS
+Thumbs.db
